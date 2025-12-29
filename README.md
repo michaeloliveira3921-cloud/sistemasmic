@@ -24,7 +24,7 @@ O sistema oferece um dashboard completo com indicadores, controle de registros, 
 ## 🌐 Demo Online
 - Acesso: demo@demostração.com
 - Senha: demo1996
-🔗 https://sistemasmic.lovable.app
+- 🔗 https://sistemasmic.lovable.app
 
 ## 👨‍💻 Autor
 **Michael de Oliveira Nogueira**  
