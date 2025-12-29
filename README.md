@@ -22,10 +22,12 @@ O sistema oferece um dashboard completo com indicadores, controle de registros, 
 - Deploy online
 
 ## 🌐 Demo Online
+- Acesso: demo@demostração.com
+- Senha: demo1996
 🔗 https://sistemasmic.lovable.app
 
 ## 👨‍💻 Autor
-**Michael de Oliveira**  
+**Michael de Oliveira Nogueira**  
 Desenvolvedor de sistemas | Projetos autorais | Aprendizado contínuo
 
 ---
